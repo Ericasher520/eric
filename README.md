@@ -1,2 +1,2 @@
 # eric
-personal web
+你好，这是我的网站
